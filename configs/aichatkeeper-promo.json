@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-05-24T13:30:00Z",
+  "enabled": true,
+  "promotions": [
+    {
+      "id": "test-promo-001",
+      "type": "promo",
+      "priority": 3,
+      "title": "测试推广消息",
+      "content": "这是一条测试推广消息，用于验证弹窗推广消息通道功能。",
+      "start_time": "2020-01-01T00:00:00Z",
+      "end_time": "2030-01-01T00:00:00Z",
+      "action": {
+        "text": "了解更多",
+        "url": "https://aichatkeeper.com"
+      },
+      "dismiss_behavior": "choice"
+    }
+  ]
+}

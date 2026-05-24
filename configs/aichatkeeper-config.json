@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-04-28T10:00:00Z",
+
+  "links": {
+    "official_site": "https://aichatkeeper.com",
+    "docs": "https://aichatkeeper.com/zh/guide/",
+    "docs_en": "https://aichatkeeper.com/en/guide/",
+    "feedback": "https://aichatkeeper.com/feedback",
+    "github": "https://github.com/aichatkeeper/ai-chat-keeper-extension",
+    "report_issue": "https://github.com/aichatkeeper/ai-chat-keeper-extension/issues"
+  },
+
+  "features": {
+    "desktop_promo": {
+      "enabled": false,
+      "show_after_notes": 30
+    },
+    "tracking": {
+      "enabled": true,
+      "endpoint": "https://aichatkeeper.com/track"
+    }
+  },
+
+  "notifications": [],
+
+  "api_endpoints": {
+    "tracking": "https://aichatkeeper.com/track"
+  }
+}
