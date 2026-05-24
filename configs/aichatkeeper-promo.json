@@ -15,7 +15,8 @@
         "text": "了解更多",
         "url": "https://aichatkeeper.com"
       },
-      "dismiss_behavior": "choice"
+      "dismiss_behavior": "choice",
+      "locales": ["zh-CN"]
     }
   ]
 }
